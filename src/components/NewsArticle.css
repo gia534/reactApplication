@@ -1,0 +1,24 @@
+.article{
+    width: 250px;
+    margin: 50px 40px;
+    display: inline-grid;
+    padding-left: 5px;
+}
+.articleImage{
+    width: 250px;
+}
+
+h3{
+    margin: 25px;
+}
+p{
+    margin: 0 25px;
+}
+a{
+    text-decoration: none;
+    color: #E0E0E0;
+}
+
+a:hover{
+    color: navajowhite;
+}

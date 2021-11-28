@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /*background: linear-gradient(#DDC9B4, #BCAC9B);*/
+    background: linear-gradient(#2A3D45, #364E59, #5D8598, #81A2B1);
+    /*background: #5D8598;*/
+    color: #E0E0E0;
+}

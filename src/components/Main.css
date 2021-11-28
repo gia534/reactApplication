@@ -1,0 +1,100 @@
+body{
+    font-family: Nunito, serif;
+}
+
+.header{
+    text-align: center;
+    margin: 30px;
+}
+
+.routes{
+    margin-top: 60px;
+}
+.template{
+    display: grid;
+    grid-template-columns: 8fr 1fr;
+}
+.naviLink:hover{
+    color: navajowhite;
+}
+.menuList{
+    list-style: none;
+    font-size: 26px;
+    padding: 20px;
+    line-height: 80px;
+}
+.navCard{
+    margin-top: 20px;
+    margin-right: 25px;
+
+}
+.naviLink{
+    text-decoration: none;
+    color: #d3e0ed;
+    font-weight: bold;
+}
+.naviMenuTitle{
+    color: #A2AEBB;
+    font-weight: bold;
+    font-size: 30px;
+}
+.para{
+    margin: 25px 200px;
+    text-indent: 25px;
+    line-height: 25px;
+    letter-spacing: 2px;
+    font-size: 22px;
+}
+
+.card{
+    width: 23%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    padding: 25px;
+    background: #5D8598;
+}
+.blogPic{
+    margin: 20px auto;
+    display: block;
+}
+
+.media{
+    margin-right: 65px;
+}
+.media, .intro, .date, .p{
+    margin-top: 15px;
+}
+.blogCards{
+  display: flex;
+}
+
+.link{
+    text-decoration: none;
+    color: #E0E0E0;
+}
+
+.p{
+    color: #E0E0E0;
+    font-weight: bold;
+}
+
+.blogTitle{
+    text-align: center;
+    margin-top: 25px;
+    padding-bottom: 25px;
+}
+
+.footer{
+    margin-top: 100px;
+    background-color: #81A2B1;
+    padding: 50px;
+}
+.footer p{
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+}
+.writDate{
+    text-align: center;
+}
