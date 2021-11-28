@@ -16,5 +16,4 @@ Google News API does stop working after 1,000 requests and the next request won'
 
 
 Photo of application's homepage!
-
-[Screen Shot 2021-11-27 at 2 04 24 PM](https://user-images.githubusercontent.com/67564107/143724946-aaf03544-70cd-4b24-ae1b-195d09802d6c.png)
+https://github.com/gia534/reactApplication/blob/main/Website%20Image.png
