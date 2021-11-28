@@ -1,5 +1,6 @@
 # reactApplication
 
+This is a blog site, where I've written a few articles about being plus sized in today's society. It also includes a section that allows users to see the latest entertainment news, where all news articles are produced by Google NewsAPI.
 How to run application:
 1. Clone repo onto desktop
 2. Once repo has been cloned open terminal 
